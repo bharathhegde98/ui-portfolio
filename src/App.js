@@ -389,8 +389,8 @@ const App = () => {
                             <ChevronRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                         </button>
                         <a
-                            href={`${process.env.PUBLIC_URL}/files/bharath_hegde_frontend_dev.pdf`}
-                            download="Bharath_Hegde_Frontend_Developer_Resume.pdf"
+                            href={`${process.env.PUBLIC_URL}/files/bharath_hegde_ui_dev.pdf`}
+                            download="Bharath_Hegde_Ui_Developer_Resume.pdf"
                             className="border border-gray-600 px-8 py-3 rounded-full hover:border-blue-400 hover:text-blue-400 hover:shadow-lg hover:shadow-blue-500/25 transition-all duration-300 flex items-center gap-2 group"
                         >
                             <Download className="w-4 h-4 group-hover:scale-110 transition-transform" />
